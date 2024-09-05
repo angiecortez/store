@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react';
+import { useRef, useState } from 'react';
 import { FaShoppingCart } from 'react-icons/fa';
 import { CgRemove } from "react-icons/cg";
 
